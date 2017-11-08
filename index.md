@@ -29,10 +29,15 @@ RULES (ENGLISH ONLY IN ALL CHATS)
 ### For Our Mods
 
 ★ Do not base your judgement on opinion or your personal problem with the situation.
+
 ★ Delete the blocked words that were bypassed. You know what these words are.
+
 ★ Talk with your team about situations happening, if you are not sure on a kick/ban or even to delete a message. Ask another mod or Kira and Jmak will help.
+
 ★ Delete mass spam - Our automod system will take care of most spam messages. Example being mass emoji spam, message spam, mass mentions and other spam. If the bot fails to do so, it's your job to get rid of spam.
+
 ★ Delete any weird looking links, you can send the links to Jmak if you are not sure.
+
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
@@ -40,14 +45,23 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Roles
 
 ★ @Admin  - (Discord only) Administrators of the server
+
 ★ @Mod   - (Discord only) Moderators on the server
+
 ★ @Dangerous - People who are active!
+
 ★ @Content Creators - Content Creators with 10k-15k+ subs and up! (We consider depending on content that you create) Message Jmak
+
 ★ @bots - The bots of the discord
+
 ★ @Secret mod in training  - Mods in the training process
+
 ★ @corn - Secret Corn cult
+
 ★ @Tech Support - @ this role for any computer/game help
+
 ★ @bots - Just the bots on the discord
+
 ★ @
 
 :link: Discord Link to invite your friends!! - https://discord.gg/VSvpBd5
